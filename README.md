@@ -1,4 +1,4 @@
-# DumbPlay
+# DumbPlay !
 
 1. install node.js packages `npm install`
 2. copy .env.copy .env
